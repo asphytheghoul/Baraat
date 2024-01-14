@@ -13,6 +13,9 @@ Project Baarat is dedicated to making indigenous (regional) languages more acces
 <br/>
 <br/>
 
+### Disclaimer ⚠️
+- The current files are early implementations and might not be completely stable and will have limitations.
+
 ### Key Features ✨
 
 - **Tokenizers for Indian Languages**: Robust tokenization tools tailored for the unique structures of regional Indian languages.
