@@ -4,7 +4,8 @@
   
    # Project Baarat 🚀
   
-   ![logo_resized](https://github.com/asphytheghoul/Baarat/assets/91832216/fca99751-b62a-4c5f-85d6-ae71da2ca6bb)
+   ![logo_resized](https://github.com/asphytheghoul/Baarat/assets/91832216/49485d73-1348-44f9-aaaf-a2cbe889a608)
+
 </div>
 
 ## About Project Baarat 📖
