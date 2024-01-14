@@ -1,4 +1,4 @@
-# Project Baarat: Empowering Regional Languages in India 🇮🇳
+# Project Baarat: Empowering Regional Languages in India 🇮🇳 with AI
 
 <div align="center">
   
