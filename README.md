@@ -4,7 +4,8 @@
   
    # Project Baarat 🚀
   
-   ![logo_resized](https://github.com/asphytheghoul/Baarat/assets/91832216/fca99751-b62a-4c5f-85d6-ae71da2ca6bb)
+   ![logo_resized](https://github.com/asphytheghoul/Baarat/assets/91832216/49485d73-1348-44f9-aaaf-a2cbe889a608)
+
 </div>
 
 ## About Project Baarat 📖
@@ -12,6 +13,10 @@
 Project Baarat is dedicated to making indigenous (regional) languages more accessible. With a focus on the rich linguistic diversity of India. This project aims to break language barriers and promote inclusivity through technology. 🌐
 <br/>
 <br/>
+
+### Disclaimer ⚠️
+- The current files are early implementations and might not be completely stable. The tokenizers are Beta versions and are being updated gradually.
+- This project draws inspiration from the AI4Bharat initiative, which houses the largest repository for datasets of Indian Languages.
 
 ### Key Features ✨
 
