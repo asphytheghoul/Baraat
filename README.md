@@ -2,7 +2,9 @@
 
 
 <div align="center">
+   
    # Project Baarat 🚀
+   
    ![Project Baarat](https://github.com/asphytheghoul/Baarat/assets/52605103/8c1ba4c4-03e6-4067-9a8e-fb65b7d8a2e0)
 </div>
 
