@@ -41,7 +41,7 @@ domain adaptive pre-training. We plan on making a **multilingual**
   
 ## About Project Baarat 📖
 
-Project Baarat is dedicated to making indigenous (regional) languages more accessible. With a focus on the rich linguistic diversity of India. This project aims to break language barriers and promote inclusivity through technology. 🌐
+Project Baarat is dedicated to making indigenous (regional) languages more accessible. With a focus on the rich linguistic diversity of India. This project aims to break language barriers and promote inclusivity through technology.
 <br/>
 <br/>
 
