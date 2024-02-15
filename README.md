@@ -59,6 +59,20 @@ To promote the spirit of building accessible models in native languages, fosteri
 <br/>
 <br/>
 
+## Roadmap 🛣️
+
+[X] Prepare and setup dataset
+[X] Prepare and setup tokenizers
+[ ] Start pre-training
+[ ] Fine-tune models
+[ ] Implement gating mechanism
+
+Foundational model: LLaMa-2 7B
+
+<br/>
+<br/>
+
+
 ## Contribute to Project Baarat 🛠️
 
 We welcome open-source contributions! Whether you're a coder, a linguist, or just someone passionate about language accessibility, there's a place for you in Project Baarat. Here's how you can get involved:
