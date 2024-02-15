@@ -61,16 +61,16 @@ To promote the spirit of building accessible models in native languages, fosteri
 
 ## Roadmap 🛣️
 
--[X] Prepare and setup dataset<br>
--[X] Prepare and setup tokenizers<br>
--[ ] Start pre-training<br>
--[ ] Fine-tune models<br>
--[ ] Implement gating mechanism<br>
+- ✅ ~~Prepare and setup dataset~~
+- ✅ ~~Prepare and setup tokenizers~~
+- ⬜ Start pre-training
+- ⬜ Fine-tune models
+- ⬜ Implement gating mechanism
 
-Foundational model: LLaMa-2 7B<br>
 
+Foundational model: LLaMa-2 7B
 <br/>
-<br/>
+
 
 
 ## Contribute to Project Baarat 🛠️
