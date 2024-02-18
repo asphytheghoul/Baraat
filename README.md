@@ -63,7 +63,7 @@ To promote the spirit of building accessible models in native languages, fosteri
 
 - ✅ ~~Prepare and setup dataset~~
 - ✅ ~~Prepare and setup tokenizers~~
-- ⬜ Start pre-training
+- ✅ ~~Start pre-training~~
 - ⬜ Fine-tune models
 - ⬜ Implement gating mechanism
 
