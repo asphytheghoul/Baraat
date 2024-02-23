@@ -24,5 +24,3 @@ print("Length of LLama-2 tokens: ", len(llama2_tokens))
 print("Length of Baarat tokens: ", len(baarat_tokens))
 print("Length of LLama-2 ids: ", len(llama2_ids))
 print("Length of Baarat ids: ", len(baarat_ids))
-
-baarat.push_to_hub("baarat-kan-0.1")
