@@ -68,6 +68,14 @@ To promote the spirit of building accessible models in native languages, fosteri
 Foundational model: LLaMa-2 7B
 <br/>
 
+## Small Demo of the project
+
+P.S. The project is still in its early stages and this is a Proof of Concept implementation for **Hindi**. 
+
+https://github.com/asphytheghoul/Baarat/assets/91832216/74aae2d7-818b-40eb-af43-ad955bbf6d45
+
+- We can see here that the model is sensitive to the prompts that are being passed to it and this is a feature prevelant in a wide variety of LLMs today. We aim to train our suite of models for a longer period of time with evaluation steps.
+- The project is being worked on actively and is currently undergoing an update. All utility files are provided in the source directory.
 
 
 ## Contribute to Project Baarat 🛠️
