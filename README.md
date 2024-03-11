@@ -1,9 +1,9 @@
-# Project Baarat: Empowering Regional Languages in India 🇮🇳 with AI
+# Project Baraat: Empowering Regional Languages in India 🇮🇳 with AI
 
 
 <div align="center">
    
-   # Project Baarat 🚀
+   # Project Baraat 🎉
    
    ![Project Baarat](https://github.com/asphytheghoul/Baarat/assets/52605103/8c1ba4c4-03e6-4067-9a8e-fb65b7d8a2e0)
 </div>
@@ -16,19 +16,16 @@ domain adaptive pre-training. We plan on making a **multilingual**
 
   
 
-> 1\) Pre-trained on a large text corpus containing various sources of
-> knowledge including crawled wikipedia articles, textbooks, news,
-> social media sites, magazines etc.
+- 1\) Pre-trained on a large text corpus containing various sources of
+knowledge including crawled wikipedia articles, textbooks, news,
+social media sites, magazines etc.
 
->
+- 2\) Is continually pre-trained on different downstream tasks. We first
+train a 7B LLaMa-2 model on an unsupervised text corpus in the target
+language and save it as a base model. We have considered the following
+tasks as downstream tasks that will be incorporated in the fine-tuning
+process:
 
-> 2\) Is continually pre-trained on different downstream tasks. We first
-> train a 7B LLaMa-2 model on an unsupervised text corpus in the target
-> language and save it as a base model. We have considered the following
-> tasks as downstream tasks that will be incorporated in the fine-tuning
-> process:
-
->
 
 > ● Machine Translation 
 > ● Text Summarization 
@@ -43,7 +40,6 @@ domain adaptive pre-training. We plan on making a **multilingual**
 
 Project Baarat is dedicated to making indigenous (regional) languages more accessible. With a focus on the rich linguistic diversity of India. This project aims to break language barriers and promote inclusivity through technology.
 <br/>
-<br/>
 
 ### Key Features ✨
 
@@ -51,7 +47,7 @@ Project Baarat is dedicated to making indigenous (regional) languages more acces
 - **Fine-tuned Language Models**: Leveraging the power of Large Language Models (LLMs) fine-tuned for Indian languages to understand and generate text with high accuracy.
 - **Open Source Collaboration**: We believe in the collective power of the community to drive innovation and inclusivity. 🤝
 <br/>
-<br/>
+
 
 ## Our Vision 🌟
 
@@ -61,11 +57,13 @@ To promote the spirit of building accessible models in native languages, fosteri
 
 ## Roadmap 🛣️
 
-- ✅ ~~Prepare and setup dataset~~
-- ✅ ~~Prepare and setup tokenizers~~
-- ✅ ~~Start pre-training~~
-- ✅ ~~Fine-tune models~~
-- ⬜ Implement gating mechanism
+- ✅ Prepare and setup dataset
+- ✅ Prepare and setup tokenizers
+- ✅ Start pre-training
+- ✅ Fine-tune models
+- ✅ Implement gating mechanism
+- ✅ Implement MoE
+- ✅ Simple Demo
 
 
 Foundational model: LLaMa-2 7B
@@ -83,18 +81,15 @@ We welcome open-source contributions! Whether you're a coder, a linguist, or jus
 
 Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) for more detailed guidelines.
 <br/>
-<br/>
 
 ## License 📄
 
 Project Baarat is released under the [MIT License](./LICENSE).
 <br/>
-<br/>
 
 ## Show Your Support 🌈
 
 If you like Project Baarat, please consider starring the repository and sharing it with your network!
-<br/>
 <br/>
 
 ---
