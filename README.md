@@ -15,7 +15,6 @@ domain adaptive pre-training. We plan on making a **multilingual**
 **and**  **cross-lingual** LLM that is :
 
   
-
 - 1\) Pre-trained on a large text corpus containing various sources of
 knowledge including crawled wikipedia articles, textbooks, news,
 social media sites, magazines etc.
@@ -32,8 +31,6 @@ process:
 > ● Question Answering 
 > ● Instruct Fine-Tuning
 
->
-
 > (this list is subject to change and a few tasks may be added over time).
   
 ## About Project Baarat 📖
@@ -47,6 +44,8 @@ Project Baarat is dedicated to making indigenous (regional) languages more acces
 - **Fine-tuned Language Models**: Leveraging the power of Large Language Models (LLMs) fine-tuned for Indian languages to understand and generate text with high accuracy.
 - **Open Source Collaboration**: We believe in the collective power of the community to drive innovation and inclusivity. 🤝
 <br/>
+
+![Architecture](https://github.com/asphytheghoul/Baarat/assets/91832216/56255cda-d124-4b9d-8305-6bc6b216d66f)
 
 
 ## Our Vision 🌟
