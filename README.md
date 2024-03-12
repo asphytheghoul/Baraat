@@ -38,6 +38,12 @@ process:
 Project Baarat is dedicated to making indigenous (regional) languages more accessible. With a focus on the rich linguistic diversity of India. This project aims to break language barriers and promote inclusivity through technology.
 <br/>
 
+### Pre-trained Language Models and Datasets
+
+| Model Name | Description | Dataset Link |
+|------------|--------------|--------------|
+| _**baarat-hindi-pretrained**_ | Base model pre-trained on a diverse collection of datasets: <br><br> &#8226; [IndicCorp](https://ai4bharat.iitm.ac.in/indiccorp/): A multilingual corpus covering 9 major Indic languages for various NLP tasks. <br> &#8226; [Hindi Wikipedia Articles (172K)](https://www.kaggle.com/datasets/disisbig/hindi-wikipedia-articles-172k): A dataset containing 172,000 Hindi Wikipedia articles. <br> &#8226; [Hindi Corpus from Leipzig University](https://wortschatz.uni-leipzig.de/en/download/Hindi): A Hindi corpus provided by the University of Leipzig. <br> &#8226; [Animals: A Visual Encyclopedia](https://archive.org/details/animalsavisualencyclopedia/page/n133/mode/2up): An encyclopedia of general animal sentences. <br> &#8226; Augmented rows using Bing AI to include worldly knowledge such as fruits, vegetables, animals. | [Link](https://huggingface.co/datasets/anirudhlakhotia/baarat-batched-hindi-pre-training) |
+| _**baarat-kannada-pretrained**_ | Base model pre-trained on a diverse collection of datasets: <br><br> &#8226; [IndicCorp](https://ai4bharat.iitm.ac.in/indiccorp/): A multilingual corpus covering 9 major Indic languages for various NLP tasks. <br> &#8226; [Kannada Corpus from Leipzig University](https://wortschatz.uni-leipzig.de/en/download/Kannada): A Kannada corpus provided by the University of Leipzig. | [Link](https://huggingface.co/datasets/anirudhlakhotia/baarat-batched-hindi-pre-training) |
 ### Key Features ✨
 
 - **Tokenizers for Indian Languages**: Robust tokenization tools tailored for the unique structures of regional Indian languages.
