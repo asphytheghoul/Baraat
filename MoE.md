@@ -17,8 +17,5 @@ We identified pressing tasks out of a variety of domains. Namely,
 
 3) We then proceed to merge the fine-tuned adapters into 16-bit vLLMs. This marks the stage where we have our individual task specific experts ready for integration into the MoE.
 
-### Mixture of Experts
-We then proceed to integrate the individual task specific experts into a Mixture of Experts (MoE) setup utilizing MergeKit, a very powerful framework that offers utility functions in creating Mixture of Experts models from an array of individually trained models.
-
 **All operations were run on a single compute node with 220GB of RAM and an NVIDIA A100 GPU with 80GB of memory.**
 
