@@ -1,6 +1,6 @@
 # Project Baraat
 
-<img src="https://github.com/asphytheghoul/Baarat/assets/91832216/08ba0790-c916-4071-a184-aff4bb67b52e" width="500" height="500">
+<img src="https://github.com/asphytheghoul/Baarat/assets/91832216/0012265d-cc6d-4855-ba5b-1859770610fe" width="500" height="500">
 
 ## Mixture of Experts Details
 A major part of the project was to create powerful open-source language specific models that are trained a large suite of datasets and tasks. We have built Continually pre-trained, Task Specific Language Models in a Mixture of Experts (MoE) setup utilizing MergeKit as the underlying merging platform. The models are trained on a large text corpus containing various sources of knowledge including crawled wikipedia articles, textbooks, news, social media sites, magazines etc. All language experts are **multi-lingual** and **cross-lingual**.
