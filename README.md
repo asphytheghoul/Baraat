@@ -95,6 +95,22 @@ We welcome open-source contributions! Whether you're a coder, a linguist, or jus
 Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) for more detailed guidelines.
 <br/>
 
+## Additional Contributions:
+
+- ### Sentence Chunking for Enhanced Pretraining:
+
+We partition sentences from datasets into chunks of predetermined maximum word count. This approach allows for the creation of extended sentences, thereby significantly augmenting the efficacy of the continual pretraining process.
+This can be applied to any dataset to combine sentences and produce a new dataset with more content per row.
+
+- ### Token Counting for Diverse Tokenizers and Datasets:
+
+A token counting mechanism has been integrated, capable of quantifying the number of tokens within any given dataset for any given tokenizer. This feature serves as a fundamental tool for analyzing token distributions and comprehending vocabulary dimensions across datasets.
+We built this by modifying Sayak Paul's [count-tokens-hf-datasets](https://github.com/sayakpaul/count-tokens-hf-datasets/) project. We no longer require Google Cloud as a component to count tokens, and the entire process can be performed locally.
+
+- ### Token Distribution Visualization and Binning:
+
+We also visualize token distributions within individual sentences of datasets. Additionally, a binning process has been implemented to enhance the interpretability of token distribution patterns. These enhancements provide valuable insights into the structural characteristics of textual data, benefiting both researchers and practitioners.
+
 ## License 📄
 
 Project Baarat is released under the [MIT License](./LICENSE).
