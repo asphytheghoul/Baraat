@@ -1,5 +1,6 @@
 # Project Baraat: Empowering Regional Languages in India 🇮🇳 with AI
 
+## View the project on huggingface over [here](https://huggingface.co/projectbaraat)
 
 <div align="center">
    
