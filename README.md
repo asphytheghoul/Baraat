@@ -50,6 +50,7 @@ Project Baarat is dedicated to making indigenous (regional) languages more acces
 - **Tokenizers for Indian Languages**: Robust tokenization tools tailored for the unique structures of regional Indian languages.
 - **Fine-tuned Language Models**: Leveraging the power of Large Language Models (LLMs) fine-tuned for Indian languages to understand and generate text with high accuracy.
 - **Open Source Collaboration**: We believe in the collective power of the community to drive innovation and inclusivity. 🤝
+- **High Quality Datasets**: Take a look at our suite of cleaned datasets ready for your own downstream training purposes.
 <br/>
 
 ![Architecture](https://github.com/asphytheghoul/Baarat/assets/91832216/56255cda-d124-4b9d-8305-6bc6b216d66f)
