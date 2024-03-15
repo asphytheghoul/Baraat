@@ -6,7 +6,8 @@
    
    # Project Baraat 🎉
    
-   ![Project Baarat](https://github.com/asphytheghoul/Baarat/assets/52605103/8c1ba4c4-03e6-4067-9a8e-fb65b7d8a2e0)
+   ![baraat](https://github.com/asphytheghoul/Baarat/assets/91832216/f3438f2e-0c52-46b8-ae03-60764387d1f6)
+
 </div>
 
 Project Baarat is an open-source initiative to leverage the power of
