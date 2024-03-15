@@ -35,6 +35,11 @@ process:
 
 > [!NOTE]
 > This list is subject to change and a few tasks may be added over time.
+
+| Model Tutorial | Notebook Link |
+|-----------------|---------------|
+| baarat-hindi-experts | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KxnaFdKrZMrJgGmi1hsFG0Alsx-oDomx?usp=sharing) |
+
   
 ## About Project Baarat 📖
 
