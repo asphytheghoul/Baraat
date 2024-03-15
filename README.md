@@ -26,13 +26,14 @@ language and save it as a base model. We have considered the following
 tasks as downstream tasks that will be incorporated in the fine-tuning
 process:
 
+1. Machine Translation 
+2. Text Summarization 
+3. Question Answering 
+4. Instruct Fine-Tuning
 
-> ● Machine Translation 
-> ● Text Summarization 
-> ● Question Answering 
-> ● Instruct Fine-Tuning
 
-> (this list is subject to change and a few tasks may be added over time).
+> [!NOTE]
+> This list is subject to change and a few tasks may be added over time.
   
 ## About Project Baarat 📖
 
@@ -84,6 +85,22 @@ https://github.com/asphytheghoul/Baarat/assets/91832216/74aae2d7-818b-40eb-af43-
 
 - We can see here that the model is sensitive to the prompts that are being passed to it and this is a feature prevelant in a wide variety of LLMs today. We aim to train our suite of models for a longer period of time with evaluation steps.
 - The project is being worked on actively and is currently undergoing an update. All utility files are provided in the source directory.
+
+## Future Scope 🔜
+
+### Extending Support for Images and Audio
+
+In the future, we aim to expand Project Baarat's capabilities beyond text to include support for images and audio, enabling multimodal learning techniques.
+
+### Pipeline for Dataset Cleaning
+
+We plan to develop a pipeline for dataset cleaning, leveraging small models like [stabilityai/stablelm-zephyr-3b](https://huggingface.co/stabilityai/stablelm-zephyr-3b) or [microsoft/phi-2](https://huggingface.co/microsoft/phi-2) for automated data cleaning processes.
+
+### Enhanced Reasoning Ability in Fine-Tuning
+
+We intend to introduce an additional step in fine-tuning to enhance the model's reasoning ability, integrating techniques for logical reasoning and inferencin using datasets like [meta-math/MetaMathQA](https://huggingface.co/datasets/meta-math/MetaMathQA) or [microsoft/orca-math-word-problems-200k](https://huggingface.co/datasets/microsoft/orca-math-word-problems-200k).
+We plan to release translated versions of the datasets to facilitate research in mathematical reasoning and question answering across diverse linguistic communities.
+
 
 
 ## Contribute to Project Baarat 🛠️
