@@ -88,15 +88,15 @@ https://github.com/asphytheghoul/Baarat/assets/91832216/74aae2d7-818b-40eb-af43-
 
 ## Future Scope 🔜
 
-### Extending Support for Images and Audio
+- ### Extending Support for Images and Audio
 
 In the future, we aim to expand Project Baarat's capabilities beyond text to include support for images and audio, enabling multimodal learning techniques.
 
-### Pipeline for Dataset Cleaning
+- ### Pipeline for Automated Dataset Cleaning
 
 We plan to develop a pipeline for dataset cleaning, leveraging small models like [stabilityai/stablelm-zephyr-3b](https://huggingface.co/stabilityai/stablelm-zephyr-3b) or [microsoft/phi-2](https://huggingface.co/microsoft/phi-2) for automated data cleaning processes.
 
-### Enhanced Reasoning Ability in Fine-Tuning
+- ### Enhanced Reasoning Ability in Fine-Tuning
 
 We intend to introduce an additional step in fine-tuning to enhance the model's reasoning ability, integrating techniques for logical reasoning and inferencin using datasets like [meta-math/MetaMathQA](https://huggingface.co/datasets/meta-math/MetaMathQA) or [microsoft/orca-math-word-problems-200k](https://huggingface.co/datasets/microsoft/orca-math-word-problems-200k).
 We plan to release translated versions of the datasets to facilitate research in mathematical reasoning and question answering across diverse linguistic communities.
