@@ -55,6 +55,8 @@ Project Baarat is dedicated to making indigenous (regional) languages more acces
 - **High Quality Datasets**: Take a look at our suite of cleaned datasets ready for your own downstream training purposes.
 <br/>
 
+## Architecture ✏️
+
 ![Architecture](https://github.com/asphytheghoul/Baarat/assets/91832216/56255cda-d124-4b9d-8305-6bc6b216d66f)
 
 
