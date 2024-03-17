@@ -6,7 +6,8 @@
    
    # Project Baraat 🎉
    
-   ![Project Baarat](https://github.com/asphytheghoul/Baarat/assets/52605103/8c1ba4c4-03e6-4067-9a8e-fb65b7d8a2e0)
+   ![baraat](https://github.com/asphytheghoul/Baarat/assets/91832216/f3438f2e-0c52-46b8-ae03-60764387d1f6)
+
 </div>
 
 Project Baarat is an open-source initiative to leverage the power of
@@ -26,13 +27,19 @@ language and save it as a base model. We have considered the following
 tasks as downstream tasks that will be incorporated in the fine-tuning
 process:
 
+1. Machine Translation 
+2. Text Summarization 
+3. Question Answering 
+4. Instruct Fine-Tuning
 
-> ● Machine Translation 
-> ● Text Summarization 
-> ● Question Answering 
-> ● Instruct Fine-Tuning
 
-> (this list is subject to change and a few tasks may be added over time).
+> [!NOTE]
+> This list is subject to change and a few tasks may be added over time.
+
+| Model Tutorial | Notebook Link |
+|-----------------|---------------|
+| baarat-hindi-experts | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KxnaFdKrZMrJgGmi1hsFG0Alsx-oDomx?usp=sharing) |
+
   
 ## About Project Baarat 📖
 
@@ -43,14 +50,17 @@ Project Baarat is dedicated to making indigenous (regional) languages more acces
 
 | Model Name | Description | Dataset Link |
 |------------|--------------|--------------|
-| _**baarat-hindi-pretrained**_ | Base model pre-trained on a diverse collection of datasets: <br><br> &#8226; [IndicCorp](https://ai4bharat.iitm.ac.in/indiccorp/): A multilingual corpus covering 9 major Indic languages for various NLP tasks. <br> &#8226; [Hindi Wikipedia Articles (172K)](https://www.kaggle.com/datasets/disisbig/hindi-wikipedia-articles-172k): A dataset containing 172,000 Hindi Wikipedia articles. <br> &#8226; [Hindi Corpus from Leipzig University](https://wortschatz.uni-leipzig.de/en/download/Hindi): A Hindi corpus provided by the University of Leipzig. <br> &#8226; [Animals: A Visual Encyclopedia](https://archive.org/details/animalsavisualencyclopedia/page/n133/mode/2up): An encyclopedia of general animal sentences. <br> &#8226; Augmented rows using Bing AI to include worldly knowledge such as fruits, vegetables, animals. | [Link](https://huggingface.co/datasets/anirudhlakhotia/baarat-batched-hindi-pre-training) |
-| _**baarat-kannada-pretrained**_ | Base model pre-trained on a diverse collection of datasets: <br><br> &#8226; [IndicCorp](https://ai4bharat.iitm.ac.in/indiccorp/): A multilingual corpus covering 9 major Indic languages for various NLP tasks. <br> &#8226; [Kannada Corpus from Leipzig University](https://wortschatz.uni-leipzig.de/en/download/Kannada): A Kannada corpus provided by the University of Leipzig. | [Link](https://huggingface.co/datasets/anirudhlakhotia/baarat-batched-hindi-pre-training) |
+| _**baarat-hindi-pretrained**_ | Base model pre-trained on a diverse collection of datasets: <br><br> &#8226; [IndicCorp](https://ai4bharat.iitm.ac.in/indiccorp/): A multilingual corpus covering 9 major Indic languages for various NLP tasks. <br> &#8226; [Hindi Wikipedia Articles (172K)](https://www.kaggle.com/datasets/disisbig/hindi-wikipedia-articles-172k): A dataset containing 172,000 Hindi Wikipedia articles. <br> &#8226; [Hindi Corpus from Leipzig University](https://wortschatz.uni-leipzig.de/en/download/Hindi): A Hindi corpus provided by the University of Leipzig. <br> &#8226; [Animals: A Visual Encyclopedia](https://archive.org/details/animalsavisualencyclopedia/page/n133/mode/2up): An encyclopedia of general animal sentences. <br> &#8226; Augmented rows using Bing AI to include worldly knowledge such as fruits, vegetables, animals. | [Link](https://huggingface.co/datasets/projectbaraat/hindi-pretraining-data-v0.1) |
+| _**baarat-kannada-pretrained**_ | Base model pre-trained on a diverse collection of datasets: <br><br> &#8226; [IndicCorp](https://ai4bharat.iitm.ac.in/indiccorp/): A multilingual corpus covering 9 major Indic languages for various NLP tasks. <br> &#8226; [Kannada Corpus from Leipzig University](https://wortschatz.uni-leipzig.de/en/download/Kannada): A Kannada corpus provided by the University of Leipzig. | [Link](https://huggingface.co/datasets/projectbaraat/kannada-pretraining-data-v0.1) |
 ### Key Features ✨
 
 - **Tokenizers for Indian Languages**: Robust tokenization tools tailored for the unique structures of regional Indian languages.
 - **Fine-tuned Language Models**: Leveraging the power of Large Language Models (LLMs) fine-tuned for Indian languages to understand and generate text with high accuracy.
 - **Open Source Collaboration**: We believe in the collective power of the community to drive innovation and inclusivity. 🤝
+- **High Quality Datasets**: Take a look at our suite of cleaned datasets ready for your own downstream training purposes.
 <br/>
+
+## Architecture ✏️
 
 ![Architecture](https://github.com/asphytheghoul/Baarat/assets/91832216/56255cda-d124-4b9d-8305-6bc6b216d66f)
 
@@ -83,6 +93,22 @@ https://github.com/asphytheghoul/Baarat/assets/91832216/74aae2d7-818b-40eb-af43-
 
 - We can see here that the model is sensitive to the prompts that are being passed to it and this is a feature prevelant in a wide variety of LLMs today. We aim to train our suite of models for a longer period of time with evaluation steps.
 - The project is being worked on actively and is currently undergoing an update. All utility files are provided in the source directory.
+
+## Future Scope 🔜
+
+- ### Extending Support for Images and Audio
+
+In the future, we aim to expand Project Baarat's capabilities beyond text to include support for images and audio, enabling multimodal learning techniques.
+
+- ### Pipeline for Automated Dataset Cleaning
+
+We plan to develop a pipeline for dataset cleaning, leveraging small models like [stabilityai/stablelm-zephyr-3b](https://huggingface.co/stabilityai/stablelm-zephyr-3b) or [microsoft/phi-2](https://huggingface.co/microsoft/phi-2) for automated data cleaning processes.
+
+- ### Enhanced Reasoning Ability in Fine-Tuning
+
+We intend to introduce an additional step in fine-tuning to enhance the model's reasoning ability, integrating techniques for logical reasoning and inferencin using datasets like [meta-math/MetaMathQA](https://huggingface.co/datasets/meta-math/MetaMathQA) or [microsoft/orca-math-word-problems-200k](https://huggingface.co/datasets/microsoft/orca-math-word-problems-200k).
+We plan to release translated versions of the datasets to facilitate research in mathematical reasoning and question answering across diverse linguistic communities.
+
 
 
 ## Contribute to Project Baarat 🛠️
