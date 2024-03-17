@@ -12,8 +12,7 @@
 
 Project Baarat is an open-source initiative to leverage the power of
 LLMs on Indic-NLP tasks. We aim to build Continually pre-trained, Task
-Specific Language Models in a Mixture of Experts (MoE) setup through
-domain adaptive pre-training. We plan on making a **multilingual**
+Specific Language Models in a Mixture of Experts (MoE) setup. We plan on making a **multilingual**
 **and**  **cross-lingual** LLM that is :
 
   
@@ -21,8 +20,8 @@ domain adaptive pre-training. We plan on making a **multilingual**
 knowledge including crawled wikipedia articles, textbooks, news,
 social media sites, magazines etc.
 
-- 2\) Continually pre-trained on different downstream tasks. We first
-train a 7B LLaMa-2 model on an unsupervised text corpus in the target
+- 2\) Fie-tuned on different downstream tasks. We first
+train a 7B LLaMa-2 model on a text corpus in the target
 language and save it as a base model. We have considered the following
 tasks as downstream tasks that will be incorporated in the fine-tuning
 process:
