@@ -62,7 +62,7 @@ Project Baarat is dedicated to making indigenous (regional) languages more acces
 
 ## Architecture ✏️
 
-![Architecture](https://github.com/asphytheghoul/Baarat/assets/115404833/a010369d-39f2-4b7d-b9d9-4ba4146e459e)
+![Architecture](https://github.com/asphytheghoul/Baarat/assets/91832216/a0cbd07f-3c2a-4569-9674-993b57713a7e)
 
 
 ## Our Vision 🌟
