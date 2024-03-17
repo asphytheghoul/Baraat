@@ -20,7 +20,7 @@ Specific Language Models in a Mixture of Experts (MoE) setup. We plan on making 
 knowledge including crawled wikipedia articles, textbooks, news,
 social media sites, magazines etc.
 
-- 2\) Fie-tuned on different downstream tasks. We first
+- 2\) Fine-tuned on different downstream tasks. We first
 train a 7B LLaMa-2 model on a text corpus in the target
 language and save it as a base model. We have considered the following
 tasks as downstream tasks that will be incorporated in the fine-tuning
