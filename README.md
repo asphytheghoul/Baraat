@@ -27,7 +27,7 @@ tasks as downstream tasks that will be incorporated in the fine-tuning
 process:
 
 1. Machine Translation 
-2. Text Summarization 
+2. Mathematical and Logical Reasoning
 3. Question Answering 
 4. Instruct Fine-Tuning
 
