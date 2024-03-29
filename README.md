@@ -45,6 +45,11 @@ process:
 Project Baarat is dedicated to making indigenous (regional) languages more accessible. With a focus on the rich linguistic diversity of India. This project aims to break language barriers and promote inclusivity through technology.
 <br/>
 
+## Roadmap 🎯
+![image](https://github.com/asphytheghoul/Baarat/assets/91832216/6491ee06-382e-4d3f-87a8-47bdb3e4a3f4)
+![image](https://github.com/asphytheghoul/Baarat/assets/91832216/fd33771e-6b4b-43a3-adc8-3c30820db6ec)
+
+
 ### Pre-trained Language Models and Datasets
 
 | Model Name | Description | Dataset Link |
