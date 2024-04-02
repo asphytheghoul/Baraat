@@ -37,7 +37,7 @@ process:
 
 | Model Tutorial | Notebook Link |
 |-----------------|---------------|
-| baarat-hindi-experts | [![Open In Colab](https://colab.research.google.com/drive/1uLxQtMaDTJ_JLkVDbVrw2eeO6hkHE1XS?usp=sharing) |
+| baarat-hindi-experts | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uLxQtMaDTJ_JLkVDbVrw2eeO6hkHE1XS?usp=sharing) |
 
   
 ## About Project Baarat 📖
