@@ -155,7 +155,7 @@ If you like Project Baraat, please consider starring the repository and sharing 
 ---
 
 Made with ❤️ by Team Baraat,\
-  [Akash Kamalesh](https://github.com/asphytheghoul) , [Anirudh Lakhotia](https://github.com/anirudhlakhotia/) and [Tanistha Hota](https://github.com/hota15), PES University, Bengaluru.
+  [Akash Kamalesh](https://github.com/asphytheghoul) , [Anirudh Lakhotia](https://github.com/anirudhlakhotia/) and [Tanistha Hota](https://github.com/tanisthahota), PES University, Bengaluru.
 
 
 
